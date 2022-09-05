@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- ✨ Crafted last [Fitness Website Clone](https://tish254.github.io/fitness-website-clone/){:target="_blank" rel="noopener"};
+- ✨ Crafted last [Fitness Website Clone](https://tish254.github.io/fitness-website-clone/)
 - 🇵🇹  Planing to complete my projects;
 - 🍑 What about this?
 

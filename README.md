@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in Lisbon, Portugal.
+#### I'm a Full-Stack Developer working in Nairobi, Kenya.
 
 ##### NOW
 
-- ✨ Crafted last [Laracon Online](https://laracon.net) website;
-- 🇵🇹 Planing the "Tuga-Co-Op";
+- ✨ Crafted last [Fitness Website Clone](https://tish254.github.io/fitness-website-clone/);
+- 🇵🇹 Planing to complete my projects;
 - 🍑 What about this?
 
 ##### BIO

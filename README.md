@@ -15,5 +15,5 @@
 - 🌍 I'm mostly active within the **React Community**
 - 🌱 Learning all about **C#**
 - 💬 Ping me about **design**, **react.js**, **pyqt5**, **development**, **node.js**
-- 📫 Reach me: [portfolio](https://tish254.github.io/oscar-tiego/)
+- 📫 Reach me: [gmail](mailto:tiegomseeraoscar295@gmail.com)
 - ⚡️ Fun fact: I play chess

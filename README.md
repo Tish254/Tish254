@@ -5,7 +5,7 @@
 ##### NOW
 
 - ✨ Crafted last [Fitness Website Clone](https://tish254.github.io/fitness-website-clone/)
-- 🇵🇹  Planing to complete my projects;
+- 🇵🇹  Planing to learn **Everything Microsoft**;
 - 🍑 What about this?
 
 ##### BIO

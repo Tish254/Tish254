@@ -16,4 +16,4 @@
 - 🌱 Learning all about **C#**
 - 💬 Ping me about **design**, **react.js**, **express.js**, **node.js**, **pyqt5**, **development**
 - 📫 Reach me: [gmail](mailto:tiegomseeraoscar295@gmail.com)
-- ⚡️ Fun fact: I play chess
+- ⚡️ Fun fact: Programming is my coffee

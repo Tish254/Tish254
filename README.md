@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- ✨ Crafted last [Fitness Website Clone](https://tish254.github.io/fitness-website-clone/)
+- ✨ Crafted last [Fitness Website Clone](https://appinapp.ke/landing)
 - 🇵🇹  Planing to learn **Everything Microsoft**;
 - 🍑 What about this?
 
